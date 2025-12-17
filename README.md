@@ -92,8 +92,6 @@ In a factor model, additional steps such as factor construction, regression anal
 
 ## Contact
 
-For questions, suggestions, or contributions, please reach out to:  
-*KaranPi*  
 GitHub: [KaranPi](https://github.com/KaranPi)
 
 --- 
