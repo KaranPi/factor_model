@@ -74,28 +74,6 @@ Factor models are widely used financial tools to evaluate the effects of systema
 ### Next Steps:
 In a factor model, additional steps such as factor construction, regression analysis, and portfolio decompositions would follow this data ingestion and preview phase. These steps are typically executed using other related notebooks or Python scripts.
 
----
-
-## Execution Instructions
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/KaranPi/factor_model.git
-   cd factor_model
-   ```
-
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the notebook:
-   Ensure you have Jupyter Notebook installed:  
-   ```bash
-   jupyter notebook 01_full_run.ipynb
-   ```
-
-4. Modify ticker symbols and parameters within the notebook to suit your analysis needs.
 
 ---
 
