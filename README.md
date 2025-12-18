@@ -4,16 +4,6 @@ The notebook, `01_full_run.ipynb`, provides a comprehensive pipeline for setting
 
 ---
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Summary of Code Cells](#summary-of-code-cells)
-3. [Execution Instructions](#execution-instructions)
-4. [Dependencies](#dependencies)
-5. [Contact](#contact)
-
----
-
 ## Introduction
 
 Factor models are widely used financial tools to evaluate the effects of systematic risk factors on asset returns. This notebook provides an end-to-end execution logic for creating and analyzing factor models using a blend of stock prices, fundamentals, and factor decompositions for U.S. stock data.
